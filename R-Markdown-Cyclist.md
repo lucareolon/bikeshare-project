@@ -249,7 +249,8 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-![](R-Markdown-Cyclist_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+
+![Graph1](img/rides_vs_weekday.png)<!-- -->
 
 ``` r
 all_trips_v2 %>% 
@@ -262,4 +263,4 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-![](R-Markdown-Cyclist_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![Graph2](img/duratiion_weekday.png)<!-- -->
