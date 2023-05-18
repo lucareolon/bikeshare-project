@@ -16,7 +16,7 @@ This analysis is an exercise, a capstone project to [Google’s Data Analytics C
 
 <div align="center">
 
-## [Analysis](R-Markdown-Cyclist.md)
+## [Full Analysis Results](R-Markdown-Cyclist.md)
 
 </div>
 
