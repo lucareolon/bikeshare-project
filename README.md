@@ -14,4 +14,9 @@ This analysis is an exercise, a capstone project to [Google’s Data Analytics C
 2.  Why would casual riders buy Cyclist annual memberships?
 3.  How can Cyclist use digital media to influence casual riders to become members?
 
+<div align="center">
+
 ## [Analysis](R-Markdown-Cyclist.md)
+
+</div>
+
