@@ -263,4 +263,4 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-![Graph2](img/duratiion_weekday.png)<!-- -->
+![Graph2](img/duration_weekday.png)<!-- -->
